@@ -92,6 +92,11 @@ st.markdown("""
         border-color: #FF0000;
     }
 </style>
+<div style-'text-align:center'>
+    <p> joke from official joke API</p>
+    <P> build  by MEER MANAV <a href='https://github.com/Meermanav'> </a>
+    </p>
+    </div>
 """, unsafe_allow_html=True)
 
 

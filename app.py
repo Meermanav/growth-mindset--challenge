@@ -93,7 +93,7 @@ st.markdown("""
     }
 </style>
 <div style-'text-align:center'>
-    <p> joke from official joke API</p>
+    
     <P> build  by MEER MANAV <a href='https://github.com/Meermanav'> </a>
     </p>
     </div>
